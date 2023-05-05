@@ -2,8 +2,8 @@
 {
   "name": "mijn-vocabularium-voc",
   "type": "voc",
-  "eap": "MijnVocabularium-VOC.eap",
-  "diagram": "OSLO-MijnVocabularium",
+  "eap": "KwaliteitOpenbaarDomein.eap",
+  "diagram": "KwaliteitOpenbaarDomein",
   "template": "mijn-vocabularium-voc.j2",
   "title": "Mijn Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
@@ -12,6 +12,6 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/TODO/CORRECT-URL/index.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05.html"
 }
 ]
