@@ -5,7 +5,7 @@
   "eap": "KwaliteitOpenbaarDomein.eap",
   "diagram": "KwaliteitOpenbaarDomein",
   "template": "mijn-applicatieprofiel-ap.j2",
-  "title": "Kwaliteit Wegen & Wegmarkeringen",
+  "title": "Kwaliteit wegen en wegmarkeringen: Applicatieprofiel",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
