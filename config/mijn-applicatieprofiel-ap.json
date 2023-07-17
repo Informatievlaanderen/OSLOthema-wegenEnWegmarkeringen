@@ -12,7 +12,7 @@
   "contributors-file": "stakeholders.csv",
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/mijn-applicatieprofiel-ap",
-  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-mijnThema/issues",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenEnWegmarkeringen/issues",
   "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05.html"
 }
 ]
