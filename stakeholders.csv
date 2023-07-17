@@ -1,4 +1,15 @@
-Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom;
-AuteurVoornaam;AuteurNaam;AuteurAffiliatie;auteurvoornaam.auteurnaam@auteurdomein;https://auteurwebsiteurl;A;
-EditorVoornaam;EditorNaam;EditorAffiliatie;editorvoornaam.editornaam@editordomein;https://editorwebsiteurl;E;
-MedewerkerVoornaam;MedewerkerNaam;MedewerkerAffiliatie;medewerkervoornaam.medewerkernaam@medewerkerdomein;https://medewerkerwebsiteurl;C;
+Voornaam;Naam;Affiliatie;E-mail;Website;MijnKolom
+Benny;Meyns;Stad Roeselare;benny.meyns@roeselare.be;https://www.roeselare.be/;A
+Cantor;Coene;Stad Roeselare;cantor.coene@roeselare.be;https://www.roeselare.be/;A
+Nico;Scheldeman;Stad Roeselare;nico.scheldeman@roeselare.be;https://www.roeselare.be/;A
+Steve;Baete;Stad Roeselare;steve.baete@roeselare.be;https://www.roeselare.be/;A
+Arne;Scheldeman;Digitaal Vlaanderen;arne.scheldeman@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Lorenzo;Vylders;Digitaal Vlaanderen;lorenzo.vylders@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Ziggy;Vanlishout;Digitaal Vlaanderen;ziggy.vanlishout@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Raf;Buyle;Digitaal Vlaanderen;raf.buyle@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Veerle;Beyaert;Digitaal Vlaanderen;veerle.beyaert@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Eveline;Vlassenroot;Digitaal Vlaanderen;eveline.vlassenroot@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Liesbeth;Van der Haegen;Digitaal Vlaanderen;liesbeth.vanderhaegen@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Laurens;Vercauteren;Digitaal Vlaanderen;laurens.vercauteren@vlaanderen.be;https://www.vlaanderen.be/digitaal-vlaanderen;E
+Ide;Vandenbroucke;Stad Brugge;ide.vandenbroucke@brugge.be;https://www.brugge.be/;C
+Tom;Boi;Stad Brugge;tom.boi@brugge.be;https://www.brugge.be/;C
