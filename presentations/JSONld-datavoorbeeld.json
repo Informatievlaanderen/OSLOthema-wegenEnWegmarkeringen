@@ -1,0 +1,92 @@
+{
+	"@context": [
+		"",
+		"https://data.vlaanderen.be/doc/applicatieprofiel/observaties-en-metingen/kandidaatstandaard/2022-04-28/context/ap-observaties-en-metingen.jsonld",
+		"https://data.vlaanderen.be/doc/applicatieprofiel/sensoren-en-bemonstering/kandidaatstandaard/2022-04-28/context/ap-sensoren-en-bemonstering.jsonld",
+		{
+			"time": "http://www.w3.org/2006/time#",
+			"xml-schema": "http://www.w3.org/2001/XMLSchema#",
+			"skos": "http://www.w3.org/2004/02/skos/core#",
+			"qudt-schema": "https://qudt.org/schema/qudt/",
+			"cl-kkt": "https://example.com/concept/kwaliteitskenmerktype#",
+			"cl-rbt": "https://example.com/concept/ruimtelijkbemonsteringsobjecttype#",
+			"cl-kst": "https://example.com/concept/kwaliteitssensortype#",
+			"cl-kpt": "https://example.com/concept/kwaliteitsobservatieproceduretype#",
+			"cl-kok": "https://example.com/concept/KODkleurcode#",
+			"awv-schema": "https://wegenenverkeer.data.vlaanderen.be/ns/onderdeel#",
+			"awv-concept-kdc": "https://wegenenverkeer.data.vlaanderen.be/doc/conceptscheme/KlDwarseMarkeringCode",
+			"awv-twin": "https://wegenenverkeer.data.vlaanderen.be/id/onderdeel#",
+			"qudt-unit": "https://qudt.org/vocab/unit/"
+		}
+	],
+	"@graph": [
+		{
+			"@id": "_:obs001",
+			"@type": [
+				"KwaliteitsObservatie",
+				"Meting"
+			],
+			"Observatie.geobserveerdKenmerk": {
+				"@type": "KwaliteitsKenmerk",
+				"@id": "cl-kkt:zichtbaarheid"
+			},
+			"Observatie.geobserveerdObject": {
+				"@type": "Scene",
+				"Scene.geometrie": "",
+				"BemonsteringsObject.identificator": "",
+				"Bemonsteringsobject.type": {
+					"@type": "Bemonsteringsobjecttype",
+					"@id": "cl-rbt:luchtfoto"
+				},
+				"Bemonsteringsobject.bemonsterdObject": {
+					"@id": "awv-twin:guid001",
+					"@type": [
+						"awv-schema:DwarseMarkering",
+						"MarkeringKOD",
+						"FysiekObject"
+					],
+					"otl:DwarseMarkering.code": {
+						"@type": "skos:Concept",
+						"@id": "awv-concept-kdc:VOP-(3)"
+					},
+					"MarkeringKOD.kleur": "cl-kok:rood",
+					"FysiekObject.geometrie": ""
+				}
+			},
+			"Observatie.fenomeenTijd": {
+				"@type": "time:Instant",
+				"time:inXSDDateTime": {
+					"@type": "xml-schema:dateTime",
+					"@value": "2023-01-23"
+				}
+			},
+			"Observatie.resultaatTijd": "",
+			"Observatie.resultaat": {
+				"@type": [
+					"KwantitatiefResultaat",
+					"Maat"
+				],
+				"Maat.maat": {
+					"@type": "KwantitatieveWaarde",
+					"KwantitatieveWaarde.standaardEenheid": {
+						"@type": "qudt-schema:Unit",
+						"@id": "qudt-unit:PERCENT"
+					},
+					"KwantitatieveWaarde.waarde": 80
+				}
+			},
+			"Observatie.uitgevoerdMetSensor": {
+				"@type": "KwaliteitsSensor",
+				"Systeem.type": {
+					"@type": "Kwaliteitssensortype",
+					"@id": "kst:machine-learning-aas"
+				},
+				"Systeem.versie": "",
+				"Sensor.implementeert": {
+					"@type": "KwaliteitsObservatieprocedure",
+					"Observatieprocedure.type": "cl-kpt:patroonherkenning"
+				}
+			}
+		}
+	]
+}
