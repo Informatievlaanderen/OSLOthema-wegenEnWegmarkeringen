@@ -1,9 +1,10 @@
 {% extends "ap2.j2" %}
 
 {% block summary %}
-<p>Vul hier een samenvatting van mijn applicatieprofiel in.</p>
-{% endblock %}
-
-{% block status %}
-<p>(Verwijder dit blok om een geautomatiseerde standaardparagraaf te laten verschijnen.)</p>
+<p>Het implementatiemodel OSLO Kwaliteit Openbaar Domein toont hoe termen uit het overeenstemmend vocabularium gebruikt moeten worden om gegevens uit te wisselen over observaties, ruimtelijke bemonsteringsobjecten en kwaliteitsaspecten tussen personen, geregistreerde- en publieke organisaties.</p>
+<p>Deze standaard is ontstaan vanuit het Machine Learning as a Service-project, <a href=https://www.vlaio.be/nl/vlaio-netwerk/city-things-slimme-steden-en-gemeenten>City of Things</a>. Met het Machine Learning as a Service-project willen de initiatiefnemers, waaronder stad Roeselare, kennis en ervaring verder uitbouwen en de algoritmes en processen tegelijkertijd ter beschikking stellen voor ieder bestuur, gaande van het kleinste lokaal bestuur tot bovenlokale overheden als Vlaanderen.</p>
+<p>Het model bestaat uit verschillende onderdelen die werden hergebruikt uit bestaande standaarden.</p>
+<p>Het eerste deel van het model bespreekt de wegen en hun markeringen en materialisatie.  Deze zaken worden aangemaakt via de klasse OpenbaarDomeinObject, terwijl de specifieke aspecten van wegen en wegmarkeringen vervat zitten in de onderliggende klassen. Het OpenbaarDomeinObject kan beschreven worden via AIMObject, welke een klasse is uit AWV: OTL, of via FysiekObject, welke een klasse is uit OSLO: Openbaar Domein.</p>
+<p>Het tweede deel van het model behandelt de Observatie die wordt gemaakt van een bepaald Kwaliteitskenmerk, zo kan het resultaat van deze observatie en de uitgedrukt worden via de klasse KwaliteitsResultaat en de daaronder liggende klassen.</p> 
+<p>Enumeraties worden in principe buiten het applicatieprofiel beschreven, de in het diagram weergegeven enumeratiewaarden zijn dus illustratief.
 {% endblock %}
