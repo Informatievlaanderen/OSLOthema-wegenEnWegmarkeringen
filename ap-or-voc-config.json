@@ -1,16 +1,16 @@
 {
-    "naam": "Applicatieprofiel Kwaliteit Openbaar Domein",
+    "naam": "Implementatiemodel Kwaliteit Openbaar Domein",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
     "publicatiedatum": "2023-07-24",
     "type_toepassing": "Aanbevolen (vrijwillig)",
-    "categorie": "Applicatieprofiel",
+    "categorie": "Implementatiemodel",
     "beschrijving" : "template-description.md",
     "specificatiedocument": [],
     "documentatie": [
       {
-        "naam": "Applicatieprofiel Kwaliteit Openbaar Domein",
+        "naam": "Implementatiemodel Kwaliteit Openbaar Domein",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kwaliteitopenbaardomein/kandidaatstandaard/2023-07-24"
         }
     ],
@@ -52,7 +52,7 @@
     "waarde": "JSONld-datavoorbeeld.pdf"
   }
     ],
-    "functioneel_toepassingsgebied": "Semantische standaard voor informatie over Publicaties",
+    "functioneel_toepassingsgebied": "Implementatiemodel voor informatie over wegen en wegmarkeringen",
     "organisatorisch_werkingsgebied": "Alle entiteiten van de Vlaamse Overheid",
     "datum_van_aanmelding": "2022-11-08",
     "erkenning_werkgroep_datastandaarden": "TBD",
