@@ -1,2 +1,1 @@
-Provide a description for this standardization trajectory. 
-This text will be shown on the OSLO standards registry.
+Binnen dit OSLO Kwaliteit Openbaar Domein traject is het de bedoeling om een implementatiemodel op te stellen dat voor de basis zal zorgen om een algemene aanpak te kunnen faciliteren omtrent informatie vanuit verschillende sensoren omtrent kwaliteitsaspecten van de wegen, verharding en wegmarkeringen te beoordelen. Op basis van internationale standaarden wordt deze standaard opgebouwd en verrijkt met eigen gespecialiseerde termen.
