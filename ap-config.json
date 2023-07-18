@@ -1,5 +1,5 @@
 {
-    "naam": "Implementatiemodel Kwaliteit Openbaar Domein",
+    "naam": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
     "rapport" : "",
     "verantwoordelijke_organisatie": "Agentschap Digitaal Vlaanderen",
     "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO002949",
@@ -10,7 +10,7 @@
     "specificatiedocument": [],
     "documentatie": [
       {
-        "naam": "Implementatiemodel Kwaliteit Openbaar Domein",
+        "naam": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kwaliteitopenbaardomein/kandidaatstandaard/2023-07-24"
         }
     ],
