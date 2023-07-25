@@ -7,13 +7,13 @@
     "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Vocabularium",
     "beschrijving" : "template-description.md",
-    "specificatiedocument": [],
-    "documentatie": [
+    "specificatiedocument": [
       {
         "naam": "Vocabularium Kwaliteit Wegen en Wegmarkeringen",
         "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kwaliteitopenbaardomein/kandidaatstandaard/2023-07-24"
         }
     ],
+    "documentatie": [],
     "charter": [
       {
         "naam": "Charter",

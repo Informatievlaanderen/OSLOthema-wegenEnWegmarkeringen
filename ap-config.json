@@ -7,13 +7,12 @@
     "type_toepassing": "Aanbevolen (vrijwillig)",
     "categorie": "Implementatiemodel",
     "beschrijving" : "template-description.md",
-    "specificatiedocument": [],
-    "documentatie": [
+    "specificatiedocument": [
       {
-        "naam": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
-        "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kwaliteitopenbaardomein/kandidaatstandaard/2023-07-24"
-        }
-    ],
+      "naam": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/kwaliteitopenbaardomein/kandidaatstandaard/2023-07-24"
+      }],
+    "documentatie": [],
     "charter": [
       {
         "naam": "Charter",
