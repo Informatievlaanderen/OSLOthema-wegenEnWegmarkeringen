@@ -48,7 +48,7 @@
   },
   {
     "naam": "JSONld datavoorbeeld",
-    "waarde": "JSONld-datavoorbeeld.pdf"
+    "waarde": "JSONld-datavoorbeeld.json"
   }
     ],
     "functioneel_toepassingsgebied": "Implementatiemodel voor informatie over wegen en wegmarkeringen",
