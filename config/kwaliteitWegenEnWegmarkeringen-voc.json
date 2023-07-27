@@ -4,7 +4,7 @@
   "type": "voc",
   "eap": "KwaliteitOpenbaarDomein.eap",
   "diagram": "KwaliteitOpenbaarDomein",
-  "template": "mijn-vocabularium-voc.j2",
+  "template": "kwaliteitWegenEnWegmarkeringen-voc.j2",
   "title": "Kwaliteit Wegen en Wegmarkeringen: Vocabularium",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
