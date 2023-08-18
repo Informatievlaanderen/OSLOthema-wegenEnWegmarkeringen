@@ -1,11 +1,11 @@
 [
 {
-  "name": "mijn-applicatieprofiel-ap",
+  "name": "kwaliteitWegenEnWegmarkeringen-ap",
   "type": "ap",
   "eap": "KwaliteitOpenbaarDomein.eap",
   "diagram": "KwaliteitOpenbaarDomein",
   "template": "kwaliteitWegenEnWegmarkeringen-ap.j2",
-  "title": "Kwaliteit Wegen en Wegmarkeringen: Applicatieprofiel",
+  "title": "Kwaliteit Wegen en Wegmarkeringen (Applicatieprofiel)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2020-01-31",
   "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
@@ -13,6 +13,6 @@
   "contributors-column": "MijnKolom",
   "site": "site-skeleton/kwaliteitWegenEnWegmarkeringen-ap",
   "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-wegenEnWegmarkeringen/issues",
-  "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05.html"
+  "standaardregisterurl": "https://data.vlaanderen.be/doc/applicatieprofiel/kwaliteit-wegen-en-wegmarkeringen/ontwerpstandaard/2023-05-05"
 }
 ]
