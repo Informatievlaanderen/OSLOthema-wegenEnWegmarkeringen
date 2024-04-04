@@ -10,7 +10,7 @@
     "specificatiedocument": [
       {
         "naam": "Vocabularium Kwaliteit Wegen en Wegmarkeringen",
-        "waarde": "https://data.vlaanderen.be/doc/ns/kwaliteit-wegen-en-wegmarkeringen"
+        "waarde": "https://implementatie.data.vlaanderen.be/doc/ns/kwaliteit-wegen-en-wegmarkeringen"
         }
     ],
     "documentatie": [],
