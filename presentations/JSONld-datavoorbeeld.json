@@ -23,8 +23,7 @@
 		{
 			"@id": "_:obs001",
 			"@type": [
-				"KwaliteitsObservatie",
-				"Meting"
+				"KwaliteitsObservatie"
 			],
 			"Observatie.geobserveerdKenmerk": {
 				"@type": "KwaliteitsKenmerk",
@@ -63,10 +62,9 @@
 			"Observatie.resultaatTijd": "",
 			"Observatie.resultaat": {
 				"@type": [
-					"KwantitatiefResultaat",
-					"Maat"
+					"KwantitatiefResultaat"
 				],
-				"Maat.maat": {
+				"Kwantitatiefresultaat.resultaat": {
 					"@type": "KwantitatieveWaarde",
 					"KwantitatieveWaarde.standaardEenheid": {
 						"@type": "qudt-schema:Unit",
