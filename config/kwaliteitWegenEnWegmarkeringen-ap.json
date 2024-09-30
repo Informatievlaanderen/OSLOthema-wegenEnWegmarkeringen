@@ -4,7 +4,7 @@
   "type": "ap",
   "eap": "KwaliteitOpenbaarDomein.eap",
   "diagram": "KwaliteitOpenbaarDomein",
-  "template": "kwaliteitWegenEnWegmarkeringen-ap.j2",
+  "template": "kwaliteitWegenEnWegmarkeringen-im.j2",
   "title": "Implementatiemodel Kwaliteit Wegen en Wegmarkeringen",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
   "publication-date": "2022-11-08",
